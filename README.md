@@ -53,7 +53,6 @@ eoa-constants/
 ├── CITATION.cff                      # Citation metadata
 ├── E/
 │   └── E5/                           # English Modified #5
-│      ├── README.md
 │      ├── README.md                  # E5 technical specification sheet
 │      ├── matrix_M_E5.csv            # 26x26 integer incidence matrix
 │      ├── lambda_E5_1000_digits.txt  # Certified 1,000-digit expansion
