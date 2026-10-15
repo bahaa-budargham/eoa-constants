@@ -49,19 +49,19 @@ Each directory contains a self-contained, hash-verified evaluation suite:
 
 ```text
 eoa-constants/
-├── README.md                         # Master registry catalog (this file)
-├── CITATION.cff                      # Citation metadata
-├── E/
-│   └── E5/                           # English Modified #5
-│      ├── README.md                  # E5 technical specification sheet
-│      ├── matrix_M_E5.csv            # 26x26 integer incidence matrix
-│      ├── lambda_E5_1000_digits.txt  # Certified 1,000-digit expansion
-│      ├── checksums.sha256           # SHA-256 cryptographic verification
-│      └── verify_e5.py               # Self-contained verification script
-├── H/                                # (Upcoming: Hebrew)
-├── G/                                # (Upcoming: Greek)
-├── F/                                # (Upcoming: French)
-└── A/                                # (Upcoming: Arabic)
+├── README.md                             # Master registry catalog (this file)
+├── CITATION.cff                          # Citation metadata
+├── English/
+│   └── E5/                               # English Modified #5
+│      ├── README.md                      # E5 technical specification sheet
+│      ├── matrix_M_E5.csv                # 26x26 integer incidence matrix
+│      ├── lambda_E5_1000_digits.txt      # Certified 1,000-digit expansion
+│      ├── checksums.sha256               # SHA-256 cryptographic verification
+│      └── verify_e5.py                   # Self-contained verification script
+├── Hebrew/                               # (Upcoming: Hebrew)
+├── Greek/                                # (Upcoming: Greek)
+├── French/                               # (Upcoming: French)
+└── Arabic/                               # (Upcoming: Arabic)
 
 ## Staged Disclosure & Collaboration
 
