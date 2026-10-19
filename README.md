@@ -78,7 +78,6 @@ The underlying phonetic string encodings and the internal recursive $\beta$-oper
 
 If you use these constants, matrices, or polynomials in your research, please cite:
 
-```bibtex
 @misc{budargham2026constants,
   author = {BuDargham, Bahaa},
   title = {EOA Mathematical Constants Registry: Limiting Ratios and Minimal Polynomials of Deterministic Alphabet Recurrences},
