@@ -46,7 +46,7 @@ Each directory contains a self-contained, hash-verified evaluation suite:
 ---
 
 ## 4. Repository Structure
-
+```text
 eoa-constants/
 ├── README.md                             # Master registry catalog (this file)
 ├── CITATION.cff                          # Citation metadata
